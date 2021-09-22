@@ -1,0 +1,184 @@
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.pkgdef
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.vsix
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\extension.vsixmanifest
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE100.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE80.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE90.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Threading.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Validation.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\stdole.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE90a.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.MSXML.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Threading.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Validation.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\VSPackage.resources
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csproj.GenerateResource.cache
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\VSCT.read.1.tlog
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\VSCT.write.1.tlog
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\resources.json
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\ctoFiles.json
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\mergeCto.cache
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csproj.CoreCompileInputs.cache
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csproj.CopyComplete
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.dll
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.pdb
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.pkgdef
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.latest.pkgdef
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\extension.vsixmanifest
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\files.json
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\createTemplateManifests.cache
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csprojAssemblyReference.cache
+F:\donetdemo\CodeGernerate\CodeGenerate\obj\Debug\PublishFilePackage.cto
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.pkgdef
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\CodeGenerate.vsix
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\extension.vsixmanifest
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE100.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE80.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE90.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CommandBars.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CoreUtility.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Imaging.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.15.0.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Framework.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Threading.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Utilities.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\stdole.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\EnvDTE90a.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Text.Data.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ImageCatalog.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.MSXML.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Newtonsoft.Json.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.CoreUtility.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Imaging.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.OLE.Interop.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Threading.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Utilities.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.Text.Data.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\Microsoft.VisualStudio.ImageCatalog.xml
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\bin\Debug\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csprojAssemblyReference.cache
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\VSPackage.resources
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csproj.GenerateResource.cache
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\PublishFilePackage.cto
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\VSCT.read.1.tlog
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\VSCT.write.1.tlog
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\resources.json
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\ctoFiles.json
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\mergeCto.cache
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.csproj.CopyComplete
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.dll
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.pdb
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.pkgdef
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\CodeGenerate.latest.pkgdef
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\extension.vsixmanifest
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\files.json
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\createTemplateManifests.cache
+C:\Users\malik\Documents\Tencent Files\872456877\FileRecv\MobileFile\新建文件夹 (2)\CodeGernerate\CodeGenerate\obj\Debug\VSPackage.resources.original
